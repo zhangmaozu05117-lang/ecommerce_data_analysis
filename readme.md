@@ -80,11 +80,11 @@
 
 ### 用户消费分布
 
-!\[用户消费分布](user\_spending.png)
+![用户消费分布](user\_spending.png)
 
 
 
 ### &#x20;流失用户消费对比
 
-!\[流失分析](churn\_vs\_spending.png)
+![流失分析](churn\_vs\_spending.png)
 
